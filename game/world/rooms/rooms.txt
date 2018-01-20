@@ -1,0 +1,46 @@
+
+
+Room 1
+---------
+desc1:
+You awake somewhere entirely foreign to you.  Your nostrils are plugged with
+dirt and clotted blood, and your scalp feels unnaturally cold.  When you finally
+gather yourself and check your surroundings, the first thing you notice is a
+large black wooden door behind you.  It seems almost too perfect to exist and
+you find it difficult to divert your attention.  Once you finally manage, you
+notice a gaping hallway to your right.  The passage seems to be dimly lit with
+candles the whole way through and at the end is a plain wooden door.
+
+desc2:
+You enter a very dusty room with a large black wooden door and a candle-lit hallway
+
+
+Room 2
+---------
+You enter a small cramped closet.  There doesn't seem to be anything in here.
+
+
+Room 3
+---------
+You step outside and are immediately faced with a sickly pink sky that stretches
+for miles.  A pathway of concrete stones leads into an area surrounded by a tall
+iron fence to your left.  To your right is a winding dirt path that leads to a
+pond a good ways off.
+
+
+Room 4
+---------
+Passing through the arched entrance gate sends a sudden shiver through your
+entire body and you involuntarily glance behind you with quickness that you
+weren't aware you possessed. In the same instant, you turn to run and fall flat
+on your face.  Terror floods your senses as you feel vines creeping along your
+ankles, and then up to your calves.  Your screams of horror only last for a
+moment before another hulking vine twists itself around your neck and mercilessly
+crushes your throat.
+
+Room 5
+---------
+As you take the first steps over the hill your shoes feel oddly light and you
+seem to have found a spring that was not previously present in your step.
+On the other side, your are met with a small patch of dasies surrounded by a
+border of black stones.
