@@ -1,0 +1,2 @@
+{"name" : "Main room" , "desc" : "You enter a very dusty room with a large black wooden door and a candle-lit hallway" , "items" : "No items" ,
+  "exits" : {"n" : 2 , "e" : 3}}
