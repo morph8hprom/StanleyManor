@@ -10,5 +10,5 @@ class Player():
         self.desc = desc
         self.loc = loc
 
-    def move(loc):
+    def move(self, loc):
         pass
