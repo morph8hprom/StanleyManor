@@ -33,8 +33,3 @@ def build_world(game_map, game_player, game_items):
     """
     a_world = World(game_map, game_player, game_items)
     return a_world
-start_id = 1
-num_rooms = 3
-a_map = Map(build_map(start_id, num_rooms))
-a_player = Player(get_player)
-a_world = build_world(a_map, )
