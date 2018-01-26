@@ -1,7 +1,7 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 
 """
-A room class and a method to load room data from json files
+A room class and a function to load room data from json files
 """
 
 
