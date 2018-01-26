@@ -2,9 +2,14 @@
 from map import *
 from player import *
 from items import *
-
+"""
+World class defining template for world and function used to
+generate world, taking map, player, and items arguments.
+"""
 class World():
-
+"""
+Defines the template for the world
+"""
 
 
     def __init__(self, game_map, game_player, game_items):

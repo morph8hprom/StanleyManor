@@ -2,7 +2,8 @@
 
 from rooms import *
 """
-Map class used to contain the map of all of the rooms.
+Map class used to contain the map of all of the rooms and a fucntion for
+building the map.
 """
 
 

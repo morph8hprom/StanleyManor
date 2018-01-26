@@ -8,6 +8,9 @@ data from json file.
 """
 
 class Player():
+    """
+    Defines the template for player
+    """
     def __init__(self, id = 0,  name = "", desc = " ", loc = None):
         self.id = id
         self.name = name
