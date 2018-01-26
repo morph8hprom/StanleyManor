@@ -2,7 +2,7 @@
 
 from rooms import *
 """
-Map class used to build a map from all of the rooms
+Map class used to contain the map of all of the rooms.
 """
 
 
@@ -23,6 +23,10 @@ class Map():
 
 
 def build_map(id, num_of_rooms):
+    """
+    Function used to build the map.
+    Takes the starting id and max number of rooms as parameters
+    """
     rooms = {}
     room_count = 0
     while room_count < num_of_rooms:
@@ -30,6 +34,3 @@ def build_map(id, num_of_rooms):
         id += 1
         room_count += 1
     return rooms
-start_id = 1
-num_rooms = 3
-a_map = Map(build_map(start_id, num_rooms))
