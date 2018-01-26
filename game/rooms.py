@@ -13,7 +13,7 @@ import json
 class Room():
     def __init__(
         self,
-        id = "0",
+        id = None,
         name = "An empty room",
         desc = "There is nothing here",
         items = {},
